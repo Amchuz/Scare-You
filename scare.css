@@ -1,0 +1,481 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
+body{
+  background: #000000;
+  padding: 0px;
+  height:100%;
+}
+.b1,
+.b2,
+.b3,
+.b4,
+.b5,
+.b6,
+.b7,
+.b8,
+.b9,
+.b10,
+.b11,
+.b12,
+.b13,
+.b14,
+.b15,
+.b16,
+.b17,
+.b18,
+.b19,
+.b20,
+.b21,
+.b22,
+.b23,
+.b24,
+.b25,
+.b26,
+.b27,
+.b28,
+.b29,
+.b30,
+.b31,
+.b32,
+.b33,
+.b34,
+.b35,
+.b36,
+.b37
+ {
+    background-color: #000000;
+    border-color: #000000;
+
+}
+input[type=button] {
+    width: 2em;  height: 2em;
+    color: black;
+    border: 0px;
+}
+
+
+.container {
+    margin: 1px;
+    
+}
+.one .img1 {
+    display: none;
+}
+.b1:hover + .img1{
+    display: block;
+    position: absolute;
+    top: 100px;
+    left: 600px;
+}
+.one .img2 {
+    display: none;
+}
+
+.b2:hover + .img2{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+.one .img3 {
+    display: none;
+}
+
+.b3:hover + .img3{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+.one .img4 {
+    display: none;
+}
+
+.b4:hover + .img4{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+.one .img5 {
+    display: none;
+}
+
+.b5:hover + .img5{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+}
+
+.one .img6 {
+    display: none;
+}
+
+.b6:hover + .img6{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img7 {
+    display: none;
+}
+
+.b7:hover + .img7{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img8 {
+    display: none;
+}
+
+.b8:hover + .img8{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img9 {
+    display: none;
+}
+
+.b9:hover + .img9{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+
+.one .img10 {
+    display: none;
+}
+
+.b10:hover + .img10{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img11 {
+    display: none;
+}
+
+.b11:hover + .img11{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img12 {
+    display: none;
+}
+
+.b12:hover + .img12{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img13 {
+    display: none;
+}
+
+.b13:hover + .img13{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img14 {
+    display: none;
+}
+
+.b14:hover + .img14{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%
+}
+.one .img15 {
+    display: none;
+}
+
+.b15:hover + .img15{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img16 {
+    display: none;
+}
+
+.b16:hover + .img16{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img17 {
+    display: none;
+}
+
+.b17:hover + .img17{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img18 {
+    display: none;
+}
+
+.b18:hover + .img18{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img19 {
+    display: none;
+}
+
+.b19:hover + .img19{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img20 {
+    display: none;
+}
+
+.b20:hover + .img20{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+.one .img21 {
+    display: none;
+}
+
+.b21:hover + .img21{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+.one .img22 {
+    display: none;
+}
+
+.b22:hover + .img22{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+.one .img23 {
+    display: none;
+}
+
+.b23:hover + .img23{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 10%
+}
+.one .img24 {
+    display: none;
+}
+
+.b24:hover + .img24{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 10%
+}
+
+.one .img26 {
+    display: none;
+}
+
+.one .img25 {
+    display: none;
+}
+.b25:hover + .img25{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+
+}
+
+.b26:hover + .img26{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+.one .img27 {
+    display: none;
+}
+
+.b27:hover + .img27{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+.one .img28 {
+    display: none;
+}
+
+.b28:hover + .img28{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+.one .img29 {
+    display: none;
+}
+
+.b29:hover + .img29{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+.one .img30 {
+    display: none;
+}
+
+.b30:hover + .img30{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img31 {
+    display: none;
+}
+
+.b31:hover + .img31{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img32 {
+    display: none;
+}
+
+.b32:hover + .img32{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img33 {
+    display: none;
+}
+
+.b33:hover + .img33{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img34 {
+    display: none;
+}
+
+.b34:hover + .img34{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+
+.one .img35 {
+    display: none;
+}
+
+.b35:hover + .img35{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img36 {
+    display: none;
+}
+
+.b36:hover + .img36{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.one .img37 {
+    display: none;
+}
+
+.b37:hover + .img37{
+    display: block;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+button{
+    position: relative;
+    height: 50px;
+    width: 150px;
+    border: none;
+    margin-right: 5px;
+    margin-top:5px;
+    margin-bottom: 5px;
+    outline: none;
+    color: white;
+    background: #111;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+  }
+button:before{
+    position: absolute;
+    content: '';
+    top: -2px;
+    left: -2px;
+    height: calc(100% + 4px);
+    width: calc(100% + 4px);
+    border-radius: 5px;
+    z-index: -1;
+    opacity: 0;
+    filter: blur(5px);
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    background-size: 400%;
+    transition: opacity .3s ease-in-out;
+    animation: animate 20s linear infinite;
+  }
+  button:hover:before{
+    opacity: 1;
+  }
+  button:hover:active{
+    background: none;
+  }
+  button:hover:active:before{
+    filter: blur(2px);
+  }
+  @keyframes animate {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+  }
+  
