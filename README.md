@@ -1,1 +1,1 @@
-# Scare-You
+# Scare You
